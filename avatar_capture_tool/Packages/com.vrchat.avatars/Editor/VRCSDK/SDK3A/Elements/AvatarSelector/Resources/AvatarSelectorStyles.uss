@@ -1,0 +1,7 @@
+﻿#avatar-selector-label {
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: 4px;
+    -unity-font-style: bold;
+    font-size: 12;
+}
