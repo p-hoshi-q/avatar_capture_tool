@@ -1,0 +1,13 @@
+{
+    "name": "com.example.avatar-capture-tool",
+    "version": "1.0.0",
+    "displayName": "Avatar Capture Tool",
+    "description": "A Unity editor tool for capturing avatars with customizable settings.",
+    "unity": "2022.3",
+    "dependencies": {
+        "com.unity.recorder": "4.0.0"
+    },
+    "author": {
+        "name": "hoshi"
+    }
+}
