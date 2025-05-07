@@ -1,13 +1,27 @@
 {
-    "name": "com.example.avatar-capture-tool",
+    "name": "com.example.avatar_capture_tool",
     "version": "1.0.0",
     "displayName": "Avatar Capture Tool",
-    "description": "A Unity editor tool for capturing avatars with customizable settings.",
+    "description": "A Unity editor tool for capturing avatars with customizable settings, designed for VRChat creators.",
     "unity": "2022.3",
+    "keywords": [
+        "vrchat",
+        "avatar",
+        "capture",
+        "editor"
+    ],
+    "author": {
+        "name": "p-hoshi-q",
+        "url": "https://your.website"
+    },
     "dependencies": {
         "com.unity.recorder": "4.0.0"
     },
-    "author": {
-        "name": "hoshi"
+    "vrcRepository": {
+        "url": "https://github.com/p-hoshi-q/avatar_capture_tool",
+        "type": "git"
+    },
+    "legacyFolders": {
+        "Assets/AvatarCaptureTool": "avatar_capture_tool"
     }
 }
