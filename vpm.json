@@ -1,0 +1,25 @@
+{
+  "name": "p-hoshi-q",
+  "id": "io.github.p-hoshi-q.vpm",
+  "author": "p-hoshi-q",
+  "url": "https://github.com/p-hoshi-q/avatar_capture_tool/vpm.json",
+  "packages": {
+    "com.example.avatar_capture_tool": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.example.avatar_capture_tool",
+          "version": "1.0.0",
+          "displayName": "avatar_capture_tool",
+          "description": "Tools for capturing avatars.",
+          "unity": "2022.3",
+          "documentationUrl": "https://github.com/p-hoshi-q/avatar_capture_tool/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "license": "MIT",
+          "keywords": ["AvatarCaptureTool", "Avatar"],
+          "url": "https://github.com/p-hoshi-q/avatar_capture_tool/archive/refs/tags/v-1.0.0.zip",
+          "repo": "https://github.com/p-hoshi-q/avatar_capture_tool/vpm.json"
+        }
+      }
+    }
+  }
+}
